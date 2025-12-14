@@ -1,0 +1,7 @@
+{
+  "name": "Vietnam Flag Particles",
+  "description": "A real-time, interactive 3D particle simulation of the Vietnamese flag with webcam-based gesture control.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
